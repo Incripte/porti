@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Joyn';
+    src: url('Joynoted Demo.ttf') format('truetype'), url('Joynoted Demo.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    font-family: 'Joyn';
+    font-size: 3em;
+}

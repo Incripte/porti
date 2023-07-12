@@ -1,0 +1,12 @@
+.cabecalho {
+    background-color: rgb(164, 244, 255);
+    display: flexbox;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.Logo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(53, 53, 53);
+}

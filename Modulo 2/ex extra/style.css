@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&family=Lobster&family=Poppins:wght@100;200;500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    background-image: linear-gradient(15deg, #F3E37C, #F3D34A, #F3A738);
+    background-attachment: fixed;
+}
+
+main {
+    background-color: rgba(240, 248, 255, 0.664);
+    width: 30em;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 3em;
+    font: normal normal 1em arial;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px 8px #c2872e3a;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 3em;
+    color: #1f1f1f;
+    text-decoration: underline;
+}
+
+h2 {
+    padding: 1em;
+    padding-top: 2em;
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+    color: #2F2F2F;
+}
+
+ul {
+    font-family: 'Poppins', cursive;
+    color: #494949;
+    text-align: justify;
+}

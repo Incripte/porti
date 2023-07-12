@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* CONFIGURAÇÕES PAISAGEM (landscape) */
+
+
+body {
+    background-image: url(../imagens/pexels-stein-egil-liland-3408744.jpg);
+    background-position: left bottom;
+}
